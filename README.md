@@ -1,2 +1,0 @@
-# DISH Coding Challenge
-
